@@ -6,9 +6,7 @@
 [Guide](/guide/README.md)  
 [Config Reference > markdown.links](/reference/config.md#links)
 <!-- URL -->
-[GitHub](https://github.com)  
-
-![An image](./image.png)
+[GitHub](https://github.com)
 
 ...
 

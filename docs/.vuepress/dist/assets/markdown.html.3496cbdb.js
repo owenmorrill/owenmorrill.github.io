@@ -1,0 +1,1 @@
+const e={key:"v-b6e2cba6",path:"/main/markdown.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648653219e3,contributors:[{name:"Owen Morrill",email:"owen.morrill@snyk.io",commits:1}]},filePathRelative:"main/markdown.md"};export{e as data};
