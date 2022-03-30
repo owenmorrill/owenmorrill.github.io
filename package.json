@@ -1,0 +1,23 @@
+{
+  "name": "snykvp",
+  "version": "1.0.0",
+  "description": "Vuepress v2 Snyk Docs",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owenmorrill/vuepress.git"
+  },
+  "author": "Owen Morrill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owenmorrill/vuepress/issues"
+  },
+  "homepage": "https://github.com/owenmorrill/vuepress#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.36"
+  }
+}
