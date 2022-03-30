@@ -1,0 +1,1 @@
+const e={key:"v-14f0b23d",path:"/main/",title:"This will be the main docs landing page?",lang:"en-US",frontmatter:{head:[["meta"],{name:"foo",content:"bar"},["link"],{rel:"canonical",href:"foobar"}]},excerpt:"",headers:[],git:{updatedTime:1648653219e3,contributors:[{name:"Owen Morrill",email:"owen.morrill@snyk.io",commits:1}]},filePathRelative:"main/README.md"};export{e as data};
